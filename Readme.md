@@ -18,7 +18,7 @@
 
 **Сайдуллин Данил - Разработчик**
 
-
+Видео выступления здесь - https://www.youtube.com/watch?v=ZFQTae5CfPY&list=PLqxmxO5VCBxQIJB523PAy5Th90S4vmUEX&index=86&t=322s
 
 <a name="br3"></a> 
 
