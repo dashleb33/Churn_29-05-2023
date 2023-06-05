@@ -18,7 +18,7 @@
 
 **Сайдуллин Данил - Разработчик**
 
-Видео выступления здесь - https://www.youtube.com/watch?v=ZFQTae5CfPY&list=PLqxmxO5VCBxQIJB523PAy5Th90S4vmUEX&index=86&t=322s
+Видео нашего выступления здесь - https://www.youtube.com/watch?v=ZFQTae5CfPY&list=PLqxmxO5VCBxQIJB523PAy5Th90S4vmUEX&index=86&t=322s
 
 <a name="br3"></a> 
 
@@ -150,13 +150,7 @@
 
 **Преобразование данных в RFM формат:**
 
-данные по
-
-клиентам УБРиР
-
-с 2016 по 2023
-
-года
+данные по клиентам УБРиР с 2016 по 2023 года
 
 • Вручную, используя различные операции группировки
 
@@ -254,7 +248,7 @@ data\_full['avarage\_purchases'] = data\_full['frequency\_cal'] / data\_full['re
 
 **ПРОГНОЗИРОВАНИЕ ОТТОКА КЛИЕНТОВ БАНКА**
 
-Наши контакты:
+Наши контакты в Telegram:
 
 @Ctakan4ik – Кожин Артём
 
@@ -263,4 +257,3 @@ data\_full['avarage\_purchases'] = data\_full['frequency\_cal'] / data\_full['re
 @DashLeb – Лебедева Дарья
 
 @Dmorphy – Сайдуллин Данил
-
